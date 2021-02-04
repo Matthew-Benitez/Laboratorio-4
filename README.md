@@ -15,9 +15,18 @@
 
 
 3. DIAGRAMAS
-
-
+   - Modelo Del Circuito
    
+   ![image](https://user-images.githubusercontent.com/75439689/106960500-2dc2b100-670a-11eb-8f93-5aa3995610a9.png)
+
+   *Figura 3.1*
+   
+   ![Corriente Y Voltaje RL 220_Página_1](https://user-images.githubusercontent.com/75439689/106961108-1fc16000-670b-11eb-86f6-bf59fa3f179d.jpg)
+
+   ![Corriente Y Voltaje RL 220_Página_2](https://user-images.githubusercontent.com/75439689/106961129-264fd780-670b-11eb-90a5-161c7328a98e.jpg)
+
+   ![Corriente Y Voltaje RL 220_Página_3](https://user-images.githubusercontent.com/75439689/106961138-294ac800-670b-11eb-9335-b2f8b40160c2.jpg)
+
 4. LISTA DE COMPONENTES
    
 
@@ -25,6 +34,7 @@
 5. EXPLICACIÓN
 
 
+![image](https://user-images.githubusercontent.com/75439689/106960927-d7a23d80-670a-11eb-8d4c-93b7518cf1c5.png)
    
 6. CONCLUSIONESS
 
