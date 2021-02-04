@@ -38,7 +38,7 @@
 
 ![image](https://user-images.githubusercontent.com/75439689/106960927-d7a23d80-670a-11eb-8d4c-93b7518cf1c5.png)
    
-6. CONCLUSIONESS
+6. CONCLUSIONES
 
 
  
