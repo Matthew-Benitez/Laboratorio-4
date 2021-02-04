@@ -36,8 +36,12 @@
 5. EXPLICACIÓN
 
 
-![image](https://user-images.githubusercontent.com/75439689/106960927-d7a23d80-670a-11eb-8d4c-93b7518cf1c5.png)
+![image](https://user-images.githubusercontent.com/75439689/106964360-fb1bb700-670f-11eb-9a8f-c31d8331b729.png)
+
+   - Porcentaje de Error Tabla 5-1
    
+   ![Porcentaje de Error](https://user-images.githubusercontent.com/75439689/106964990-ff949f80-6710-11eb-9e1f-efcaef355372.jpg)
+
 6. CONCLUSIONES
 
 
