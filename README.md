@@ -29,7 +29,9 @@
 
 4. LISTA DE COMPONENTES
    
-
+   ![image](https://user-images.githubusercontent.com/75439689/106961723-0371f300-670c-11eb-82bc-e5c6303bb8f4.png)
+   
+   *Figura 4.1*
 
 5. EXPLICACIÓN
 
