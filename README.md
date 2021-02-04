@@ -12,7 +12,7 @@
    
 2. MARCO TEÓRICO
 
-   ![image](file:///C:/Users/Auxiliar/Documents/Deberes%20Mateo/ESPE/Segundo%20nivel/circuitos/captura%20lab%204%20mapa%20conceptual.jpg)
+   ![image](https://raw.githubusercontent.com/Matthew-Benitez/Laboratorio-4/main/captura%20lab%204%20mapa%20conceptual.jpg)
 
 
 3. DIAGRAMAS
