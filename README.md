@@ -12,7 +12,7 @@
    
 2. MARCO TEÓRICO
 
-   ![image](https://raw.githubusercontent.com/Matthew-Benitez/Laboratorio-4/main/captura%20lab%204%20mapa%20conceptual.jpg)
+   ![captura-lab-4-mapa-conceptual](https://user-images.githubusercontent.com/75439689/107047927-5abca580-6796-11eb-9ddf-d7ee33bc2509.jpeg)
 
 
 3. DIAGRAMAS
