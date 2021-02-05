@@ -45,28 +45,32 @@
      - Dar los valores de RL; y con cada valor, se da inicio a la simulación y se anotan los valores medidos de corriente y voltaje de RL uno por uno.
 
    5.2. Tabla de Parámetros Eléctricos del circuito de la figura 3.1
+   
 ![image](https://user-images.githubusercontent.com/75439689/106964360-fb1bb700-670f-11eb-9a8f-c31d8331b729.png)
+   
+   *Tabla 5.1*
 
-   5.3.¿Se cumple el Teorema de la Máxima Transferencia de Potencia? 
+   5.3. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? 
       
    Sí, debido a que se pudo apreciar mediante los valores obtenidos teóricamente y experimentalmente, que el valor de la potencia consumida por la carga aumenta cuando se acerca al valor de 1200 ohms de la otra resistencia; pero al sobrepasar dicho valor de resistencia, la potencia empieza a disminuir. Por lo tanto se comprueba el Teorema de la Máxima Transeferencia de Potencia.
       
-   5.4.¿Cuál fue la potencia máxima en RL? 
+   5.4. ¿Cuál fue la potencia máxima en RL? 
    
    Con los valores de resistencia de la tabla 5.2, se pudo observar que la potencia máxima fue de 0.04648 Watts.
    
-   5.5.¿Para qué valor de RL se obtiene la MTP?
+   5.5. ¿Para qué valor de RL se obtiene la MTP?
    
    Aplicando el Teorema, la máxima potencia se alcanza cuando RL es igual a 1200ohms; pero con los valores dados en la tabla 5.2, se determinó que la resistencia que más potencia consumió fue la de 1000 ohms. 
 
-   5.Porcentaje de Error Tabla 5-1
+   5.6. Porcentaje de Error Tabla 5.1
    
    ![Porcentaje de Error](https://user-images.githubusercontent.com/75439689/106964990-ff949f80-6710-11eb-9e1f-efcaef355372.jpg)
 
 6. CONCLUSIONES
 
-   -
-   
+   - Mediante el análisis de los valores obtenidos tanto experimental como teóricamente, se concluye que la potencia máxima que una fuente puede suministrar a una carga, se da cuando la resistencia de carga es igual a la resistencia conectada en serie entre la fuente y la carga. Demostrándose así el Teorema de Transferencia de la Potencia Máxima.
+   - Mientras el valor de la resistencia de carga se acerque más al valor de la otra resistencia, mayor será la potencia consumida de la carga. Por otro lado, mientras más se aleje el valor de la resistencia de carga al valor de la otra resistencia, el valor de dicha potencia disminuirá.
+   - Comparando entre los valores obtenidos prácticamente y los calculados teóricamente, existe un error porcentual mínimo; lo cual demuestra que en la simulación se miden valores aproximados, mientras que en los cálculos se obtienen valores más certeros y reales.
  
 7. BIBLIOGRAFÍA
 
